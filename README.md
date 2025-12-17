@@ -64,4 +64,14 @@ STEP 7: OPEN PROJECT FILES
 -----------------------------------
 
 PROJECT IS NOW READY
-You can begin learning and practicing Git & GitHub commands.
+
+-----------------------------------
+
+## ABOUT THE PROJECT
+This website houses our projects/tasks that we have done for our work immersion. This website will also house future projects/tasks that we students will take on in the future.
+This website is to be used as an archive to store and perserve our projects for the foreseeable future or until the end of our Work Immersion here in Samulco. It will house individual and group projects that have been done for our Work Immersion.
+
+-----------------------------------
+
+## NAMES OF THE STUDENTS WHO WORKED ON THIS WEBSITE
+Tutor, Trisha Sophia / Palermo, Erika Mae / Binoya, Nithelou Ann / Macrohon, Miguel / Linterna, Thom Gilbert 
