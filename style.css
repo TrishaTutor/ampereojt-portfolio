@@ -66,6 +66,12 @@ margin-bottom: 10px;
 width: 100%;
 }
 
+.pfp-image {
+width: 300px;
+border-radius: 50%;
+border: 10px solid #FF894F;
+}
+
 footer {
 text-align: center;
 padding: 20px;
