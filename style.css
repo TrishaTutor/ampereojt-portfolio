@@ -73,7 +73,12 @@ border: 10px solid #FF894F;
 }
 
 .img {
-border-radius: 8px;
+max-width: 100%;
+height: auto;   
+border: 2px solid #ccc;
+border-radius: 8px; 
+}
+
 }
 
 .project-gallery {
