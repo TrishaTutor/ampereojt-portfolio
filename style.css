@@ -48,6 +48,7 @@ margin: 40px auto;
 padding: 20px;
 border-radius: 8px;
 box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+text-align: center;
 }
 
 .main {
@@ -64,7 +65,7 @@ text-align: center;
 .pfp-image {
 width: 300px;
 border-radius: 50%;
-border: 10px solid #FF894F;
+border: 10px solid #333;
 }
 
 .img {
