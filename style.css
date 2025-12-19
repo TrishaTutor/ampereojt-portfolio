@@ -61,11 +61,6 @@ margin-bottom: 10px;
 text-align: center;
 }
 
-@media only screen and (max-width: 620px) {
-.menu, .main, .right {
-width: 100%;
-}
-
 .pfp-image {
 width: 300px;
 border-radius: 50%;
@@ -74,11 +69,10 @@ border: 10px solid #FF894F;
 
 .img {
 max-width: 100%;
+padding: 30px:
 height: auto;   
 border: 2px solid #ccc;
 border-radius: 8px; 
-}
-
 }
 
 .project-gallery {
